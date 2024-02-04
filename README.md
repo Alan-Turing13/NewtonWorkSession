@@ -1,4 +1,3 @@
-GOALS
 This was the first GUI app I built. My goal was to build an effective productivity timer with a twist. I didn't want anything too complex, just a snappy effective tool for timing your work.
 
 Some of the maths for displaying the remaining time in user-legible format (HH:MM) caused me a bit of a headache. Also, packaging up the file in PyInstaller took quite a bit of trial and error. I am aware of an issue on certain Mac machines where the application file won't open with the following message: "LSOpenURLsWithRole() failed with error -10810 for the file /Applications/NWS.app."
